@@ -16,6 +16,8 @@
         pgrole: 'qbittorrent'
         intport: '8080'
         extport: '8083'
+        intport2: '34611'
+        extport2: '34611'
         image: 'linuxserver/qbittorrent'
 
     # CORE (MANDATORY) #############################################################
